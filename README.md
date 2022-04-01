@@ -2,7 +2,7 @@
 
 Inspired by a [coding bootcamp at UW](https://bootcamp.uw.edu/coding/) program,
 I wanted to crate an aggregated placeholder for all UW Coding Bootcamp Pre-read
-Materials.
+Materials. Additionally wanted to have my own list here. 
 
 # Pre-Read: 01-HTML-Git-CSS Week 1
 
