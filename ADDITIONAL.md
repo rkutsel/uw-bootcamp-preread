@@ -4,6 +4,7 @@
 
 # TDD 
 - https://codeutopia.net/blog/2016/10/10/5-step-method-to-make-test-driven-development-and-unit-testing-easy/
+- [Mocks Exmplained](https://dev.to/zaklaughton/the-only-3-steps-you-need-to-mock-an-api-call-in-jest-39mb)
 
 # NodeJS
 - [9 Utilities for the Node.js Developer](https://nodesource.com/blog/nine-fantastic-utilities-for-the-node-js-developer)
