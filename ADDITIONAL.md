@@ -16,6 +16,9 @@
 
 # General 
 - [Semver Specification Explained](https://nodesource.com/blog/semver-a-primer/)
+- [reexr](https://www.regular-expressions.info/reference.html)
+- [regular-expressions.inforegular-expressions.info](https://www.regular-expressions.info/reference.html)
+
 
 
 
