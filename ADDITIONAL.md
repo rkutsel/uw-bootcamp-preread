@@ -3,6 +3,7 @@
 - [Object distructuring with modules](https://javascript.plainenglish.io/object-destructuring-and-integration-with-modules-in-javascript-391ca0434ea9)
 - [async-await](https://javascript.info/async-await)
 - [Processing Arrays non-destructively](https://2ality.com/2022/05/processing-arrays-non-destructively.html)
+- [Micro/Macro Tasks. Event Loop](https://javascript.info/event-loop)
 
 # TDD 
 - https://codeutopia.net/blog/2016/10/10/5-step-method-to-make-test-driven-development-and-unit-testing-easy/
