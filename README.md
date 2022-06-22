@@ -444,3 +444,27 @@ Materials. Additionally wanted to have my own list [HERE](https://github.com/rku
 - [Strict Mode](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode)
 - [Master the JavaScript Interview: What is Functional Programming?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0)
 
+# Pre-read 18-NoSQL
+
+## Day 1
+
+- [MongoDB - Overview](https://www.tutorialspoint.com/mongodb/mongodb_overview.htm)
+- [What is MongoDB? Introduction, Architecture, Features & Example](https://www.guru99.com/what-is-mongodb.html)
+- [Relational Databases vs NoSQL Document Databases](https://lennilobel.wordpress.com/2015/06/01/relational-databases-vs-nosql-document-databases/)
+- [SQL vs NoSQL: 5 Critical Differences](https://www.xplenty.com/blog/the-sql-vs-nosql-difference/#:~:text=The%20five%20critical%20differences%20of,and%20have%20a%20predefined%20schema.&text=SQL%20databases%20are%20table%20based,graph%20or%20wide%2Dcolumn%20stores.)
+- [What Is a Document Database?](https://aws.amazon.com/nosql/document/)
+
+## Day 2
+
+- [mongoosejs](https://mongoosejs.com/)
+- [An Introduction to Mongoose for MongoDB and Node.js](https://code.tutsplus.com/articles/an-introduction-to-mongoose-for-mongodb-and-nodejs--cms-29527)
+- [Introduction to Mongoose for MongoDB](https://www.freecodecamp.org/news/introduction-to-mongoose-for-mongodb-d2a7aa593c57/#:~:text=Mongoose%20is%20an%20Object%20Data,library%20for%20MongoDB%20and%20Node.&text=It%20manages%20relationships%20between%20data,of%20those%20objects%20in%20MongoDB.)
+
+## Day 3
+
+- [IndexedDB API](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API)
+- [A quick but complete guide to IndexedDB and storing data in browsers](https://www.freecodecamp.org/news/a-quick-but-complete-guide-to-indexeddb-25f030425501/)
+- [Getting Started with Persistent Offline Storage with IndexedDB](https://itnext.io/getting-started-with-persistent-offline-storage-with-indexeddb-1af66727246c)
+- [Searching in Your IndexedDB Database](https://itnext.io/searching-in-your-indexeddb-database-d7cbf202a17)
+- [How To Add Index to Pre-Existing ObjectStore In IndexedDB](https://stackoverflow.com/questions/41086495/how-to-add-index-to-pre-existing-objectstore-in-indexeddb)
+
