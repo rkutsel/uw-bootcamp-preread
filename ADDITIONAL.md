@@ -23,5 +23,5 @@
 - [regular-expressions.inforegular-expressions.info](https://www.regular-expressions.info/reference.html)
 
 
-
-
+# CORS 
+[How CORS Work](https://jakearchibald.com/2021/cors/)
