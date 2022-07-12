@@ -499,3 +499,28 @@ Materials. Additionally wanted to have my own list [HERE](https://github.com/rku
 - [Getting Started with Persistent Offline Storage with IndexedDB](https://itnext.io/getting-started-with-persistent-offline-storage-with-indexeddb-1af66727246c)
 - [Searching in Your IndexedDB Database](https://itnext.io/searching-in-your-indexeddb-database-d7cbf202a17)
 - [How To Add Index to Pre-Existing ObjectStore In IndexedDB](https://stackoverflow.com/questions/41086495/how-to-add-index-to-pre-existing-objectstore-in-indexeddb)
+
+# Pre-read 20-React
+
+## Day 1
+
+- [React - A JavaScript library for building user interfaces](https://reactjs.org/)
+- [What is ReactJS?](https://www.simplilearn.com/tutorials/reactjs-tutorial/what-is-reactjs)
+- [create react app](https://reactjs.org/docs/create-a-new-react-app.html)
+- [Introducing JSX](https://reactjs.org/docs/introducing-jsx.html)
+- [Master the JavaScript Interview: What is a Pure Function?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976)
+
+## Day 2
+
+- [Understanding "state" in React components](https://thinkster.io/understanding-react-state.Top+5+Components+to+UpgradeSuggest)
+- [Hooks at a Glance](https://reactjs.org/docs/hooks-overview.html)
+- [How to fetch data with React Hooks?](https://www.robinwieruch.de/react-hooks-fetch-data)
+- [React.Component](https://reactjs.org/docs/react-component.html)
+- [Understanding Functional Components vs. Class Components in React](https://www.twilio.com/blog/react-choose-functional-components)
+
+## Day 3
+
+- [ReactDOM](https://reactjs.org/docs/react-dom.html)
+- [ReactDom.act()](https://reactjs.org/docs/test-utils.html#act)
+- [Jest - Setup and Teardown](https://jestjs.io/docs/setup-teardown)
+- [Snapshot Testing](https://jestjs.io/docs/snapshot-testing)
