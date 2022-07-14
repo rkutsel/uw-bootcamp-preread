@@ -512,6 +512,7 @@ Materials. Additionally wanted to have my own list [HERE](https://github.com/rku
 
 ## Day 2
 
+- [Atomic Web Design](https://bradfrost.com/blog/post/atomic-web-design/)
 - [Understanding "state" in React components](https://thinkster.io/understanding-react-state.Top+5+Components+to+UpgradeSuggest)
 - [Hooks at a Glance](https://reactjs.org/docs/hooks-overview.html)
 - [How to fetch data with React Hooks?](https://www.robinwieruch.de/react-hooks-fetch-data)
