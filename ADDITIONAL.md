@@ -26,3 +26,6 @@
 
 # CORS 
 [How CORS Work](https://jakearchibald.com/2021/cors/)
+
+#React
+-[React useEffect hook usage](https://blog.greenroots.info/react-useeffect-hook-usages-you-must-know)
