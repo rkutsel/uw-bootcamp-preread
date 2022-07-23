@@ -22,6 +22,7 @@
 - [Semver Specification Explained](https://nodesource.com/blog/semver-a-primer/)
 - [reexr](https://www.regular-expressions.info/reference.html)
 - [regular-expressions.inforegular-expressions.info](https://www.regular-expressions.info/reference.html)
+- [JWT](https://redis.com/blog/json-web-tokens-jwt-are-dangerous-for-user-sessions/#:~:text=Although%20JWT%20does%20eliminate%20the,use%20JWT%20for%20user%20sessions)
 
 
 # CORS 
