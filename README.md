@@ -560,3 +560,19 @@ Materials. Additionally wanted to have my own list [HERE](https://github.com/rku
 - [HTTP Link - Get GraphQL results over a network using HTTP fetch.](https://www.apollographql.com/docs/react/api/link/apollo-link-http/#:~:text=HttpLink%20is%20a%20terminating%20link,on%20a%20per%2Doperation%20basis.)
 - [apollo-server-express](https://www.npmjs.com/package/apollo-server-express)
 - [GraphQL Search and Filter – How to search and filter results with GraphQL](https://www.apollographql.com/blog/graphql/filtering/how-to-search-and-filter-results-with-graphql/)
+
+# Pre-read 22-State
+
+
+## Day 1
+
+- [Context API](https://reactjs.org/docs/context.html)
+- [Provider Pattern with React Context API](https://flexiple.com/react/provider-pattern-with-react-context-api/)
+- [Application State Management with React](https://kentcdodds.com/blog/application-state-management-with-react)
+- [Pure vs Impure Functions](https://dev.to/sanspanic/pure-vs-impure-functions-50aj)
+- [Redux](https://krasimir.gitbooks.io/react-in-patterns/content/chapter-09/#redux-architecture-and-its-main-characteristics)
+
+## Extra
+
+- [How GraphQL Replaces Redux](https://wmdmark.medium.com/how-graphql-replaces-redux-3fff8289221d)
+- [Why Are So Many Developers Hating on Object-Oriented Programming?](https://thenewstack.io/why-are-so-many-developers-hating-on-object-oriented-programming/)
