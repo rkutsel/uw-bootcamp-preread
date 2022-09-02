@@ -1,4 +1,5 @@
 # JS
+- [JS-interview-questions](https://www.interviewbit.com/javascript-interview-questions/)
 - [JS binding rules and this Keyword](https://www.freecodecamp.org/news/javascript-this-keyword-binding-rules/)
 - [Object distructuring with modules](https://javascript.plainenglish.io/object-destructuring-and-integration-with-modules-in-javascript-391ca0434ea9)
 - [async-await](https://javascript.info/async-await)
