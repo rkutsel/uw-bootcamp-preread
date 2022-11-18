@@ -7,6 +7,8 @@
 - [Micro/Macro Tasks. Event Loop](https://javascript.info/event-loop)
 - [CommonJS vs ES6](https://stackoverflow.com/questions/46677752/the-difference-between-requirex-and-import-x)
 - [Learn PWA](https://web.dev/learn/pwa/)
+- [SOLID principle](https://www.freecodecamp.org/news/solid-principles-for-programming-and-software-design/)
+
 
 # TDD 
 - https://codeutopia.net/blog/2016/10/10/5-step-method-to-make-test-driven-development-and-unit-testing-easy/
