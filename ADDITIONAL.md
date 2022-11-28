@@ -8,7 +8,7 @@
 - [CommonJS vs ES6](https://stackoverflow.com/questions/46677752/the-difference-between-requirex-and-import-x)
 - [Learn PWA](https://web.dev/learn/pwa/)
 - [SOLID principle](https://www.freecodecamp.org/news/solid-principles-for-programming-and-software-design/)
-
+- [Node.js Architecture Pitfalls to Avoid](https://blog.appsignal.com/2022/11/23/nodejs-architecture-pitfalls-to-avoid.html)
 
 # TDD 
 - https://codeutopia.net/blog/2016/10/10/5-step-method-to-make-test-driven-development-and-unit-testing-easy/
