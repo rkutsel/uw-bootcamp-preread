@@ -1,3 +1,6 @@
+# Rust
+- [Comprehensive Rust](https://google.github.io/comprehensive-rust/?utm_source=tldrnewsletter)
+
 # JS
 - [JS-interview-questions](https://www.interviewbit.com/javascript-interview-questions/)
 - [JS binding rules and this Keyword](https://www.freecodecamp.org/news/javascript-this-keyword-binding-rules/)
