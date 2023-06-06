@@ -36,3 +36,6 @@
 
 #React
 -[React useEffect hook usage](https://blog.greenroots.info/react-useeffect-hook-usages-you-must-know)
+
+#Lead
+-[Promoted from Dev to Team Lead: 8 Things They Didn’t Tell Me](https://devinterrupted.substack.com/p/promoted-from-dev-to-team-lead-8)
